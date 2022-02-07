@@ -82,3 +82,35 @@ I found a way around the error "HH1: You are not inside a hardhat project" I was
  ## Day 16: Fullstack DApp
 -Learnt how to link local blockchain nodes created using hardhat with metamask( crypto wallet).
 - learning to develop the frontend that interacts with the Blockchain 
+## Day 17: 
+-Finished the frontend for updating messages on the Blockchain
+-Learnt about the ABI(Application Binary Interface) which is used to interact with frontend applications
+-Learnt about the various APIs used to check is using an Ethereum wallet
+## Day 18: Fullstack DApp
+-Skipped deployment of a smart contract live test network (Ropsten),I just wasnt feeling itFace with hand over mouth.
+-I am learning how to develop a token from scratch. 
+ ## DAY 19: Fullstack DApp
+-Learnt how to deploy a contract on live test network(Ropsten)
+-I can now develop a token from scratch with two basic functions send and transfer On my own
+ ## DAY 20: ERC20 (Fungible Token)
+-I can now develop an ERC 20 token.But I have to repeat the process again.I need to know how to add burning and minting capabilities.
+## Day 21: #100DaysOfWeb3
+-Just Finished publishing my first article. I don't think ill be doing anything else after this, Don't forget to go through it. 
+How To Get In To Blockchain
+ ## Day 22: Eth Smart Contract Best Practices
+-I read on smart contract security and learnt so much.
+-The cost of failure on Smart Contracts is high and change can be difficult as compared to how you program the web.
+  ### Some of the best practices involve:
+-Catching bugs before release and preparing for failure
+-Keeping contracts simple by use of libraries
+-Be aware of #blockchain properties such as malicious agents
+ ## Day 23: OpenZeppelin contracts
+-Since yesterday I read on Smart contracts security and one of the measures to put in place was to use already written tool.
+-I wrote an ERC20 contract using the OpenZeppelin library.
+## Day 24: ERC721
+-Today I'm all about NFTs.
+When I'm done I'll talk all about what I've learnt from the contract development,minting and anything else I'll learn
+## Day 25: NFT
+-So from yesterday I have been watching explainer videos on NFT.
+-I learnt how create an NFT collection (1000+).
+-I just looked at  ERC721 standard but didn't put it to practice.
