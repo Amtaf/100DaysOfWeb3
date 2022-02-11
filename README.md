@@ -114,3 +114,30 @@ When I'm done I'll talk all about what I've learnt from the contract development
 -So from yesterday I have been watching explainer videos on NFT.
 -I learnt how create an NFT collection (1000+).
 -I just looked at  ERC721 standard but didn't put it to practice.
+## Day 26: 
+-I read on secure development of smart contracts.
+- I learnt that during the development of any contract the following recommendations should be followed:
+~Use caution when making external calls
+~Mark untrusted contracts
+## Day 27: 
+-Building a cryptocollectible game from cryptozombies by implementing the ERC721 standard.
+## Day 28:
+-I learnt on Solidity specific security recommendations such as:
+~Enforce invariants with assert().assert function is used only to test for internal errors.
+~Use require(),revert() functions appropriately.
+~Use modifiers only for checks. 
+The require function should be used to check if a condition is met.
+Modifier are used to replace duplicate condition checks in multiple functions
+## Day 29: Still on smart contract security 
+-I learnt that though smart contracts are immutable they are still subject to attacks stemming from coding errors.
+-One of the attacks I focused on today is Reentracy .
+•Reentrancy mostly takes place when calling external contracts.
+~Reentrancy led to the collapse of Decentralized Autonomous Organization ( DAO ) smart contract leading to a loss of 3.6million Ether
+Some of the fixes to Reentrancy impossible include:
+•Mark untrusted contracts
+•Mutual Exclusion(Mutex): Locking state  so that it can only be changed by the owner....refreshed my computer science knowledge
+## Day 30: Blockchain Attacks
+- I learnt on the Front 
+running attack,it's different categories and mitigation
+-Timestamp dependence and Integer Overflow/Underflow solved using the safeMath.sol library
+-Different DOS and more deprecated attacks
