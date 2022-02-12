@@ -156,3 +156,10 @@ Looked into DAO (Decentralized Autonomous Organization) design proposals
 ## Day 35: Zero Knowledge Proof
 -Focused on the @PolygonHermez a ZK-Rollup focusing on payments on Ethereum
 - Comparing to Ethereum which can handle 15TPS I understand why 2000 TPS are possible on Hermez,thus low fees,isn't it cool? 
+- -Zero Knowledge:When two parties in a transaction are able to verify each other that they have a particular set of information. Without revealing it.
+-TPS(Transactions Per Second)
+-Read on ProofOfDonation
+## Day 36: 
+-Resumed buildspace course I finished the 1st section (Storing data on smart contract and deploying).
+-I'm now building a website that will interact with a local Ethereum network that I deployed.
+
