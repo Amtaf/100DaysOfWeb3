@@ -140,4 +140,19 @@ Some of the fixes to Reentrancy impossible include:
 - I learnt on the Front 
 running attack,it's different categories and mitigation
 -Timestamp dependence and Integer Overflow/Underflow solved using the safeMath.sol library
--Different DOS and more deprecated attacks
+-Different DOS and more deprecated attacks.
+## Day 31: 
+Looked into DAO (Decentralized Autonomous Organization) design proposals
+## Day 32-33:
+-I enrolled in web3 course by @_buildspace it's amazing so far you earn NFTs for completing stuff.There are also co-working sessions with fellow builders.
+- After a meeting I attended I got curious on what @PolygonHermez network entails
+- I learnt that using Zero-knowledge technology(I'll dive deeper into this in the coming days) enhancing it's powerful capabilities like
+-A high throughput of 2000 TPS 
+-low token transfer cost allowing more financial services for mainstream adoption
+## Day 34: Blockchain Scalability
+- I got to understand Blockchain scalabity better.
+-Layer1 &2 scaling solutions
+-Boosting Blockchain networks Scalability.
+## Day 35: Zero Knowledge Proof
+-Focused on the @PolygonHermez a ZK-Rollup focusing on payments on Ethereum
+- Comparing to Ethereum which can handle 15TPS I understand why 2000 TPS are possible on Hermez,thus low fees,isn't it cool? 
