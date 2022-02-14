@@ -162,4 +162,17 @@ Looked into DAO (Decentralized Autonomous Organization) design proposals
 ## Day 36: 
 -Resumed buildspace course I finished the 1st section (Storing data on smart contract and deploying).
 -I'm now building a website that will interact with a local Ethereum network that I deployed.
+## Day 37: 
+-Deployed a contract on etherscan 
+-Linked my project with @AlchemyPlatform
+- Develop the frontend using ReactJs to send me waves(👋🏾) that's what the project is about and connected it with my wallet.
+## Day 38:
+Completed section 2 of @_buildspace web3 + Solidity course.
+## Day 39: Got into researching on how to generate random NFT.
+-Looked at chainlink VRF(verifiable Random Function),learnt something but didn't put it to practice.
+-I realized there are different types of NFT dynamic and Advanced.
+## Day 40-41:
+-Winding up on section 3  of @_buildspace course hoping to finish by tomorrow.
+-Storing messages on the blockchain
+-Spent most of the time debugging but I got help from the wonderful community of devs on buildspace discord.
 
