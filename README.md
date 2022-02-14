@@ -175,4 +175,5 @@ Completed section 2 of @_buildspace web3 + Solidity course.
 -Winding up on section 3  of @_buildspace course hoping to finish by tomorrow.
 -Storing messages on the blockchain
 -Spent most of the time debugging but I got help from the wonderful community of devs on buildspace discord.
-
+## Day 42: Finished @_buildspace web3 course 
+-My app can now send a messages from users anonymously, share their project ideas and the winning project will be selected by the smart contract and  awarded 0.0001 Eth.
