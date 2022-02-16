@@ -188,3 +188,18 @@ Completed section 2 of @_buildspace web3 + Solidity course.
 Did you know NFT data for images has to be stored in SVG?
 -I learnt how to turn an Image to SVG,and encoding it to base64 string.
 -Generated random NFTs on OpenSea
+## Day 46: 
+-I have completed section 3 of @_buildspace NFT course:
+☑️Developing a react app to communicate with our smart contract
+☑️Connect wallet to web app
+☑️Learnt how to mint NFTs on my website
+## Day 47-48:
+-Completed @_buildspace NFT course
+-Was stuck for hours with bugs😥
+-My NFTs can now be minted from the from the frontend of my app and are now opensea
+## Day 49: 
+-Added a feature to my NFT minting smart contract
+-I learnt more on the openzeppelin counters library it's so cool and easy to use
+-Attended a webinar, got insights on Blockchain explorers architecture
+## Day 50: Whew!!! I can't believe I'm already halfway
+- I'm just going to read on Blockchain Oracles I might add more details in another tweet,I also want to reflect on what the next half will be about.
