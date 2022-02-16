@@ -177,3 +177,14 @@ Completed section 2 of @_buildspace web3 + Solidity course.
 -Spent most of the time debugging but I got help from the wonderful community of devs on buildspace discord.
 ## Day 42: Finished @_buildspace web3 course 
 -My app can now send a messages from users anonymously, share their project ideas and the winning project will be selected by the smart contract and  awarded 0.0001 Eth.
+## Day 43: 
+-Researching on a project I might be working on.
+-Tweaked a few things on my smart contract.
+-Learnt software engineering security techniques such as upgrading contracts.
+## Day 44:
+-Began @_buildspace NFT course.
+## Day 45: 
+-Still working @_buildspace NFT course.completed section 2.
+Did you know NFT data for images has to be stored in SVG?
+-I learnt how to turn an Image to SVG,and encoding it to base64 string.
+-Generated random NFTs on OpenSea
