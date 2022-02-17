@@ -197,6 +197,7 @@ Did you know NFT data for images has to be stored in SVG?
 -Completed @_buildspace NFT course
 -Was stuck for hours with bugs😥
 -My NFTs can now be minted from the from the frontend of my app and are now opensea
+got an NFT from buildspace https://t.co/qOqj1tmwwV
 ## Day 49: 
 -Added a feature to my NFT minting smart contract
 -I learnt more on the openzeppelin counters library it's so cool and easy to use
