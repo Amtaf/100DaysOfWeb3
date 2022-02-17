@@ -203,3 +203,34 @@ Did you know NFT data for images has to be stored in SVG?
 -Attended a webinar, got insights on Blockchain explorers architecture
 ## Day 50: Whew!!! I can't believe I'm already halfway
 - I'm just going to read on Blockchain Oracles I might add more details in another tweet,I also want to reflect on what the next half will be about.
+## Day 51: 
+-Updated some code on my "project sharing" DApp.
+Check my Github repo.Its also live feel free to check it out and contribute.
+https://t.co/tmMr0rbcOs
+## Day 52:
+-I verified a client's ERC 20 contract and gave him steps on how to add on the mainnet
+## Day 53:
+-Project research
+-Looking into web3.js & Ethers.js library's documentations
+-Watched part 1 of videos on minting 10k NFTs using code,it was super confusing I'll try again some other time
+## Day 54-55:
+-Organizing content for an article I'll publish.
+-I have been seeing ads on YouTube about @MoralisWeb3 ,I decided to explore it.Its a middleware that allows devs to build crosschain DApps quickly....
+- I setup the server and configured the Blockchain platforms I wanted (Ethereum,Polygon & BSC)
+-setup user authentication with metamask using ,it's all HTML and JavaScript.
+-Developed a DApp in less than 5mins
+## Day 56: 
+-Gathering requirements of an NFT market place I will build.
+## Day 57:
+ Checked on the NEAR protocol
+-learnt about it's consensus mechanism (Delegated Proof Of Stake) /Doomslug,it's tokenomics and how assets can be bridged from Ethereum.
+-Something cool about it is it has human readable contract addresses.
+-I am also trying to understand NextJs which I might use for my NFT marketplace frontend,Having worked with React before I hope I'll catch up soon.
+-I find tailwind CSS to be cool though I have never used it before.
+## Day 58: Buidling an NFT market place.
+-I'm going to spend the whole weekend/ week or even month😂 indoors,so many projects and stuff to learn awaiting.
+## Day 59-60:
+-Building NFT game with @_buildspace very interactive 
+-Trying to catch up with everything @chainlink 
+-Learnt about @chainlink data feeds and how to use them to connect smart contracts with real time market prices of assets.
+-Still building NFT game with @_buildspace
