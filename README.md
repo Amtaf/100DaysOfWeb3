@@ -235,3 +235,9 @@ https://t.co/tmMr0rbcOs
 -Trying to catch up with everything @chainlink 
 -Learnt about @chainlink data feeds and how to use them to connect smart contracts with real time market prices of assets.
 -Still building NFT game with @_buildspace
+Day: 61-62
+-Learnt about @chainlink data feeds and how to use them to connect smart contracts with real time market prices of assets.
+-Still building NFT game with @_buildspace
+Day 63: 
+-Completed the development of my NFT game with 
+@_buildspace and got another NFT 
