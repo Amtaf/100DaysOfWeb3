@@ -1,5 +1,5 @@
 # 100DaysOfWeb3
-It can be a little bit confusing on where to start off once you hop onto the Web3 train.Here's my journey on what i learnt on the #100DaysOfWEb3
+It can be a little bit confusing on where to start off once you hop onto the Web3 train.Here's my journey on what i learnt on the #100DaysOfWEb3>There are a variety of topics to guide on whats essential to learn in web3
 
 ## Day 1: DApps
 -How DApps are developed.
