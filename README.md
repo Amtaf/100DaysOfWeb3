@@ -249,5 +249,11 @@ https://t.co/tmMr0rbcOs
 -Linking my NFT game characters to IPFs
 ## Day 67-69:
 -Mostly did Web development work,with a little integration of Web3.
--I also published a blog on
-Consensus Protocols: Different types and how they work
+-I also published a blog on Consensus Protocols: Different types and how they work
+## Day 70-76:
+-Did freelance project (Token development)
+-Had meetings with a client on forking a certain Blockchain (still researching)
+-Attended @developer_dao town hall incredible stuff coming up.
+Day 77-78
+Reading the token economy book,fractional ownership is mind-blowing
+
