@@ -254,6 +254,11 @@ https://t.co/tmMr0rbcOs
 -Did freelance project (Token development)
 -Had meetings with a client on forking a certain Blockchain (still researching)
 -Attended @developer_dao town hall incredible stuff coming up.
-Day 77-78
+## Day 77-78
 Reading the token economy book,fractional ownership is mind-blowing
+## Day 79,81,82,83,84,85
+-Been doing lots of research on various projects
+-Read the token economy once more.
+-Wrapping on Uncompleted project
+-Been up and down preparing for a web3 event that will be in my city,more updates when it's a success.
 
