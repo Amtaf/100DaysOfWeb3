@@ -247,3 +247,7 @@ https://t.co/tmMr0rbcOs
 ## Day 65-66: 
 -Checked out how to build DApps with scaffold eth.Its got everything you need to develop Web3 apps in one place,I liked it
 -Linking my NFT game characters to IPFs
+## Day 67-69:
+-Mostly did Web development work,with a little integration of Web3.
+-I also published a blog on
+Consensus Protocols: Different types and how they work
