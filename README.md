@@ -260,5 +260,7 @@ Reading the token economy book,fractional ownership is mind-blowing
 -Been doing lots of research on various projects
 -Read the token economy once more.
 -Wrapping on Uncompleted project
--Been up and down preparing for a web3 event that will be in my city,more updates when it's a success.
+-Been up and down preparing for a web3 event that will be in my city,
+Day 86-87
+Looking into Hedera Hashgraph
 
