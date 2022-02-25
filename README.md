@@ -272,5 +272,16 @@ Looking into Hedera Hashgraph
 - Resumed my old Market place project (looking at legacy code,I'm clueless😂),I'll check out on a tutorial .
 ## Day 91-93 
 -Worked on an Ethernaut challenge
--Started to work on a DAO project
+-Started to work on a DAO project.
+## Day 94-98
+- Still going on with the DAO development project.
+-working on another side project.
+## DAY 99
+-spent some time fixing some bugs.
+I'm about to wrap up my #100DaysOfWeb3 / #100DaysOfCode challenge,I was posting for accountability,but I gained so much more.
+## It's a wrap Day 100/100🎉🎉🎉
+#100DaysOfWeb3 #100DaysOfCode 
+-Read a few blogs.
+-Curating content for my next article.
+-im halfway through with one of my projects.
 
