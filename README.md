@@ -261,6 +261,16 @@ Reading the token economy book,fractional ownership is mind-blowing
 -Read the token economy once more.
 -Wrapping on Uncompleted project
 -Been up and down preparing for a web3 event that will be in my city,
-Day 86-87
+## Day 86-87
 Looking into Hedera Hashgraph
+## Day 88:
+-Learnt how to create a token on Hedera Hashgraph.
+-Read through the documentation of 
+@thirdweb_ and I was glued,damn it's incredible. I'm going start a project soon.
+## Day 89-90 
+-Looked at how to implement an NFT collection on @thirdweb_ and React.
+- Resumed my old Market place project (looking at legacy code,I'm clueless😂),I'll check out on a tutorial .
+## Day 91-93 
+-Worked on an Ethernaut challenge
+-Started to work on a DAO project
 
